@@ -1,0 +1,14 @@
+.ordenacao {
+  display: flex;
+  align-items: center;
+  gap: 1.75rem;
+  margin-top: 3.5rem;
+  color: var(--cinza-medio);
+  justify-content: center;
+  font-size: 1.375rem;
+}
+
+.ativo{
+  color: var(--verde-destaque);
+  text-decoration: underline;
+}

@@ -1,11 +1,9 @@
 .card {
-  color: var(--cinza-medio);
+  color: var(--cinza-claro);
   text-decoration: none;
   background-color: var(--cinza-escuro);
   border-radius: 8px;
-
-  width: 50%;
-
+  width: 100%;
   display: grid;
 }
 
@@ -14,7 +12,6 @@
   height: 240px;
   background-color: var(--cinza-medio);
   border-radius: 8px;
-
   display: flex;
   justify-content: center;
   align-items: center;
@@ -35,7 +32,7 @@
 
 .card__link {
   text-decoration: none;
-  color: var(--cinza-medio);
+  color: var(--cinza-claro);
 }
 
 .conteudo__texto {
